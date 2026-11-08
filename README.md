@@ -28,12 +28,3 @@ Enter an image filename (`.jpg`, `.png`, `.bmp`, or `.tga`), then choose a filte
 | `CS213_Assignment1.cpp` | Main program: menu and all filters |
 | `Image_Class.h` | Image class provided by the course (FCAI, Cairo University) |
 | `stb_image.h`, `stb_image_write.h` | Open-source image loading and saving libraries by Sean Barrett |
-
-## Screenshots
-
-| Filter | Before | After |
-|--------|--------|-------|
-| Purple | <img src="screenshots/luffy_original.jpg" width="260"> | <img src="screenshots/luffy_purple.jpg" width="260"> |
-| Infrared | <img src="screenshots/samurai_original.jpg" width="260"> | <img src="screenshots/samurai_infrared.jpg" width="260"> |
-| Oil Painting | <img src="screenshots/cry_original.jpg" width="260"> | <img src="screenshots/cry_oil_painting.jpg" width="260"> |
-| Old TV | <img src="screenshots/wano_original.jpg" width="260"> | <img src="screenshots/wano_old_tv.jpg" width="260"> |
